@@ -1,9 +1,3 @@
-# WEEK-2-ASSIGNMENT
-This is WEEK  2 Assignment for Python Module
-
-Here's a **README.md** description for your **Week 2 Assignment**:  
-
----
 
 ## **Week 2 Assignment - Python Data Structures 🐍📚**  
 
